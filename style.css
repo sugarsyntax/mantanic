@@ -1,0 +1,15 @@
+.navbar {
+    position: fixed;
+    letter-spacing: 5rem;
+}
+.onScroll {
+    opacity: 0.6;
+}
+
+#home {
+    background-image : url('IMG_3496bfree.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
